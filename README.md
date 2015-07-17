@@ -1,8 +1,1 @@
-# teste
-public class HolloWorld {
-public static void main(String[] args) {
-	System.out.println("Hellow World");
-
-}
-
-}
+Esse é um arquivo de teste

@@ -1,6 +1,6 @@
 This guide will show you how to deploy a Grails application to Heroku and bind it to the Postgres database service.
 
-## Prerequisites
+## Prerequisites DENIS PAULO COSTA REIS
 
 * Java, Maven, Git, and the Heroku client (as described in the [basic Java quickstart](/java))
 * An installed version of [Postgres](http://www.postgresql.org/) to test locally
